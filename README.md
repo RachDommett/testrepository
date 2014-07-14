@@ -1,3 +1,3 @@
 testrepository
 ==============
-This is my first respoistry on GitHub
+This is my first repository on GitHub
